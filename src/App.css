@@ -54,6 +54,7 @@ body {
   padding: 0.5rem;
   display: flex;
   justify-content: space-between;
+  width: 19rem;
 }
 .submitButton {
   height: 2.3rem;
@@ -70,6 +71,8 @@ body {
   border: none;
   font-weight: bold;
   cursor: pointer;
+  width: 2rem;
+  height: 2rem;
 }
 .noTask {
   color: white;
